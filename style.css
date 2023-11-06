@@ -1,0 +1,71 @@
+*{
+    font-family: 'Atkinson Hyperlegible', sans-serif;
+    margin:0px;
+    }
+    label{
+      font-size:14px;
+      font-weight:600;
+    }
+    body{
+      
+        background-image:url(https://wallpapercave.com/wp/wp2007200.jpg);
+        background-repeat: no-repeat;
+        background-size:cover;
+    }
+    *{
+    line-height: 29px;
+    box-sizing: border-box;
+    }
+    .marq{
+      background-color:#fc679b;
+      color:#e9e7f0;
+      font-size: large;
+      font-family:cursive;
+  }
+  h1{
+    color:#fff;
+    display: inline;
+    font-size: 35px;
+}
+    h2{
+      padding:20px;
+      text-align: center;
+      color:#e9e7f0;
+      background-color:#fc679b;
+      
+    }
+    Form{
+      margin-top: 15px;
+      margin-bottom: 15px;
+      display: block;
+      align-self: center; 
+      padding:2em;
+      margin-block-start: 1cm;
+      margin: auto;
+      max-width: 500px;
+      background-color: #fff;
+      border-radius:10px;
+    }
+  
+    .form-control{
+      padding: 4px 16px;
+      width: 100%;
+      border: unset;
+    box-shadow: 0 0 10px #9CA3AF;
+    border-radius:10px;
+    outline-color:indianred;
+    }
+    #button{
+      padding: 4px 16px;
+      width: 100%;
+      margin: 10px 0;
+     font-weight: 600;
+     border: unset;
+    box-shadow: 0 0 10px #9CA3AF;
+    background: linear-gradient(to right, #ec005a, #fc679b);
+    color: #fff;
+    border-radius:10px;
+    }
+  
+  
+      
