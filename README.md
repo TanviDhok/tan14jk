@@ -1,2 +1,7 @@
 # tan14jk
-Welcome to our PHP Laravel repository, your one-stop solution for full-stack web development. This project leverages the power of the Laravel framework to seamlessly integrate front-end and back-end code, simplifying the creation of dynamic and feature-rich web applications. 
+Assignment 1 
+The below show a registration form for hiring part time employees at different brances of Cupckae Royale.
+index.php - contains the basic html code for form 
+function.php- connects to database
+data.php-retrieving data from database and presenting it in tabular form
+css files - they contain the css for the form 
